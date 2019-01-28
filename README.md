@@ -6,12 +6,14 @@ RULES: The rules are similar to chess. The differences between this game and che
 
 Here are the pieces in Chess:
 
-Pawn
-Rook
-Knight
-Bishop
-Queen
+Pawn;
+Rook;
+Knight;
+Bishop;
+Queen;
 King 
+
+Here are the pieces in the Game of the Kings.
 
 [[Sauron's Side:]a.k.a. Black]
 
