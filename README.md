@@ -15,18 +15,18 @@ King
 
 [[Sauron's Side:]a.k.a. Black]
 
-Black Pawns => Orcs
-Rooks => Wargs
-Knights => Dragons
-Bishops => Fell Beasts
-Queen => Saruman
+Black Pawns => Orcs;
+Rooks => Wargs;
+Knights => Dragons;
+Bishops => Fell Beasts;
+Queen => Saruman;
 King => Sauron
 
 [[The Fellowship:]a.k.a. Brown]
 
-Pawns =>  Rangers
-Rooks => Hobbits
-Knights => Dwarves
-Bishops => Elves
-Queen => Gandalf
+Pawns =>  Rangers;
+Rooks => Hobbits;
+Knights => Dwarves;
+Bishops => Elves;
+Queen => Gandalf;
 King => Aragorn
