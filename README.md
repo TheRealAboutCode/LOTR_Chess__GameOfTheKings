@@ -1,7 +1,7 @@
 # This is the repository for the code for a game called:
 # "The Game of the Kings -- subtitled -- A Game Based on The Lord of the Rings"
 #
-# The rules are similar to chess.
+RULES: The rules are similar to chess. The differences between this game and chess will be explained.
 #
 
 Here are the pieces in Chess:
